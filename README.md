@@ -21,6 +21,9 @@ web dashboard.  While it *could* be extended to simulate random
 events (e.g., synthetic price generation or demand forecasting), its core
 purpose here is **exploratory data analysis** delivered as a one‑click web app.
 
+
+LINK TO WEB APP: https://project-car-tool-for-eda.onrender.com/
+
 ---
 
 ## Directory structure
