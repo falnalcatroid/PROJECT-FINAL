@@ -177,14 +177,6 @@ cython_debug/
 *.pyc
 __pycache__/
 
-# --- Virtual‑envs (local only) --------------------------------
-.venv/
-Notebooks/.venv/
-
-# --- Jupyter artefacts ----------------------------------------
-*.ipynb_checkpoints/
-*.ipynb
-
 # --- OS cruft --------------------------------------------------
 .DS_Store
 Thumbs.db
